@@ -106,10 +106,8 @@ Connected the analysis data to Power BI and designed a four-page interactive das
 ## 7. Power BI Dashboard Pages
 
 ### Page 1 – Overview
-<img width="936" height="548" alt="overview" src="https://github.com/user-attachments/assets/a9e245ef-7e88-46c6-93ec-b017207c1a82" />
-
-
 Provides a summary of overall EV charging activity.
+<img width="936" height="548" alt="overview" src="https://github.com/user-attachments/assets/a9e245ef-7e88-46c6-93ec-b017207c1a82" />
 
 **KPIs**
 - Total Sessions
@@ -127,6 +125,8 @@ Provides a summary of overall EV charging activity.
 ### Page 2 – Charging Trends
 
 Analyzes charging activity over time.
+<img width="936" height="549" alt="charging trends" src="https://github.com/user-attachments/assets/bf61ccdc-aaef-49cf-818e-7fe5d1e28e29" />
+
 
 **KPIs**
 - Sessions This Period
@@ -142,6 +142,7 @@ Analyzes charging activity over time.
 ### Page 3 – Charger & Location Analysis
 
 Compares charger utilization across locations and companies.
+<img width="934" height="548" alt="charger location performance" src="https://github.com/user-attachments/assets/ad78866b-ab27-4b67-9965-b779787eeee6" />
 
 **KPIs**
 - Total Locations
@@ -158,6 +159,7 @@ Compares charger utilization across locations and companies.
 ### Page 4 – Customer Usage & Charging Behavior
 
 Analyzes customer activity, charging preferences, and session duration.
+<img width="935" height="549" alt="customer usage analysis" src="https://github.com/user-attachments/assets/b508efec-11af-4c00-93a4-6ec6aa2c65b9" />
 
 **KPIs**
 - Unique Users

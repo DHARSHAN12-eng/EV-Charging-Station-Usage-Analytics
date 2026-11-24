@@ -106,6 +106,8 @@ Connected the analysis data to Power BI and designed a four-page interactive das
 ## 7. Power BI Dashboard Pages
 
 ### Page 1 – Overview
+<img width="936" height="548" alt="overview" src="https://github.com/user-attachments/assets/a9e245ef-7e88-46c6-93ec-b017207c1a82" />
+
 
 Provides a summary of overall EV charging activity.
 
